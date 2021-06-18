@@ -1,0 +1,32 @@
+{
+  "product": [
+    {
+      "id": "1",
+      "Product Name": "abc",
+      "Rate": "123",
+      "Quantity": "200ml",
+      "Published at": "6/18/2021"
+    },
+    {
+      "id": "2",
+      "Product Name": "bcd",
+      "Rate": "456",
+      "Quantity": "200ml",
+      "Published at": "6/18/2021"
+    },
+    {
+      "id": "3",
+      "Product Name": "efg",
+      "Rate": "789",
+      "Quantity": "200ml",
+      "Published at": "6/18/2021"
+    },
+    {
+      "id": "4",
+      "Product Name": "hij",
+      "Rate": "000",
+      "Quantity": "200ml",
+      "Published at": "6/18/2021"
+    }
+  ]
+}
